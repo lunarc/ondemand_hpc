@@ -1,2 +1,2 @@
-# ondemand_hpc
-LUNARC HPC On-Demand services
+# LUNARC HPC On-Demand
+Here you can find information on the LUNARC HPC On-Demand services and setup.
